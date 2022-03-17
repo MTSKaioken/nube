@@ -43,4 +43,13 @@ CREATE TABLE clientes (
 - [x] Delete
 ## Feature's futuras
 - [] Paginação
-- [] Autenticações a partir de middlewares
+- [] Autenticações e Controle de acessos a partir de middlewares
+- [] Log de rotas
+- [] Subir os schemas do Banco de dados junto a aplicação, sem ajuda de ORM'S ou frameworks java
+- [] Filtros especificos
+- [] Deleção em massa
+- [] Configurações de variaveis de ambiente do projeto com .env ou .properties
+- [] Relatórios do projeto com PDF'S e otros tipos de arquivos, ex: excel
+- [] disponibilização dos dados da aplcicação através de uma API 
+- [] Consumo da API em versão desktop
+- [] CRUD usuario
