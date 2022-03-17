@@ -42,6 +42,7 @@ CREATE TABLE clientes (
 - [x] Update
 - [x] Delete
 ## Feature's futuras
+- [ ] Imagem do Software em docker 
 - [ ] Paginação
 - [ ] Autenticações e Controle de acessos a partir de middlewares
 - [ ] Log de rotas
