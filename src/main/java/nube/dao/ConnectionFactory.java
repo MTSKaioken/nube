@@ -20,8 +20,8 @@ import java.util.logging.Logger;
 public final class ConnectionFactory { 
     private static final String DRIVER = "org.postgresql.Driver";
     private static final String URL = "jdbc:postgresql://localhost:5432/nube";
-    private static final String USER = "mtskaioken";
-    private static final String PASS = "WilsonAtacante123@";
+    private static final String USER = "root";
+    private static final String PASS = "root";
     
     public static Connection getConnection(){
         try {  

@@ -37,5 +37,10 @@ CREATE TABLE clientes (
 4. Prontinho, só dar run no projeto :)
 
 ## Checklist
-
+- [x] Create
+- [x] Read
+- [x] Update
+- [x] Delete
 ## Feature's futuras
+- [] Paginação
+- [] Autenticações a partir de middlewares
