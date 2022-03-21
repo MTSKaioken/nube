@@ -51,6 +51,7 @@ CREATE TABLE clientes (
 - [ ] Deleção em massa
 - [ ] Configurações de variaveis de ambiente do projeto com .env ou .properties
 - [ ] Relatórios do projeto com PDF'S e otros tipos de arquivos, ex: excel
-- [ ] disponibilização dos dados da aplcicação através de uma API 
+- [ ] disponibilização dos dados da aplicação através de uma API 
 - [ ] Consumo da API em versão desktop
 - [ ] CRUD usuario
+- [ ] Sessions
